@@ -1,0 +1,5 @@
+konafa    ->  62  EGP
+kofta    ->  10  EGP
+baqdonis    ->  2  EGP
+shabat    ->  6  EGP
+korat    ->  20  EGP

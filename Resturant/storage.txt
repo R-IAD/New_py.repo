@@ -1,0 +1,5 @@
+kofta,91
+konafa,3
+korat,50
+baqdonis,50
+shabat,40
